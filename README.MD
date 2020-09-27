@@ -2,8 +2,6 @@
 
 Atom One theme for Xcode
 
-![](screenshot.png)
-
 ## How to install
 
 1. Exit Xcode
